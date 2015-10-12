@@ -61,6 +61,11 @@ p {
     background-color: #222;
 }
 
+.bg-gray {
+  background-color: #999;
+  color: #fff;
+}
+
 .text-faded {
     color: rgba(255,255,255,.7);
 }
@@ -71,6 +76,14 @@ section {
 
 aside {
     padding: 100px 0;
+}
+
+.card .card-body {
+  color: rgba(255, 255, 255, .7);
+}
+
+.card {
+  padding: 15px 0;
 }
 
 .no-padding {
